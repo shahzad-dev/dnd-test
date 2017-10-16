@@ -1,5 +1,6 @@
 {
   "passPerPreset": true,
+  "plugins": ["transform-decorators-legacy"],
   "presets": [
     {
       "plugins": [
